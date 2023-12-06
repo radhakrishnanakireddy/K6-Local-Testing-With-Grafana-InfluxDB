@@ -8,11 +8,18 @@
     "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo2NzY2LCJ1c2VybmFtZSI6InJhZGhhLm5ha2lyZWRkeSt1azFAbmF0b29yYS5jb20iLCJleHAiOjE3MjY1NzI3NDMsImVtYWlsIjoicmFkaGEubmFraXJlZGR5K3VrMUBuYXRvb3JhLmNvbSIsIm9yaWdfaWF0IjoxNjk1ODE0MzQzfQ.624shsKuVSNE40AQT4eLn6W4Wp4NEoVjznQTvfWQGvc"
   ],
   "products": [
-    "Agria Potatoes Potatoes",
-    "Baby Spinach",
-    "Bean - Bobby",
+    "Agria",
+    "Spinach",
+    "Bean",
     "Banana",
-    "Chard - Rainbow",
-    "Grapefruit"
-  ]
+    "Chard-Rainbow",
+    "Grapefruit",
+    "Banana"
+  ],
+  "categories": [
+    28, 36, 35, 37, 30, 38, 32, 27, 40, 59, 29, 31, 33, 28, 1064, 1067, 1066,
+    60, 34, 61
+  ],
+  "orderItemIds": [4850590, 4850593, 4850595],
+  "unitTypes": ["BOX", "UNIT", "KG"]
 }
